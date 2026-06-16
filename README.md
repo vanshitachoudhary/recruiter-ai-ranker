@@ -1,111 +1,73 @@
-# Intelligent Candidate Discovery & Ranking System
+# AI Recruiter Ranker
+
+Hybrid AI-powered candidate ranking system built for large-scale recruiter workflows.
 
 ## Overview
 
-This solution ranks candidates for the Redrob Senior AI Engineer role.
+AI Recruiter Ranker combines:
 
-Instead of relying only on keyword matching, the ranking system attempts to understand the hiring intent behind the job description.
+* Rule-based candidate scoring
+* Semantic similarity ranking
+* Recruiter engagement signals
+* Experience and title relevance scoring
 
-The model combines candidate skills, career history, recruiter signals, availability signals, and production AI experience to identify strong matches.
+The system processes large candidate datasets and generates ranked candidate recommendations.
 
----
+## Features
 
-## Ranking Factors
+### Rule-Based Ranking
 
-### Experience Fit
+* Experience scoring
+* Title relevance scoring
+* Skill matching
+* Recruiter signal weighting
 
-Preferred range:
+### Semantic Ranking
 
-- 5 to 9 years experience
-- Additional boost for 6 to 8 years
+* Sentence Transformers
+* Candidate-to-job semantic similarity
+* Embedding-based relevance scoring
 
-### Role Relevance
+### Hybrid Ranking
 
-Preferred titles:
+Final score combines:
 
-- AI Engineer
-- Machine Learning Engineer
-- Search Engineer
-- Recommendation Engineer
-- NLP Engineer
-- Applied Scientist
-- Applied ML Engineer
+* Rule-based relevance
+* Semantic relevance
+* Recruiter activity signals
 
-Negative titles:
+## Tech Stack
 
-- Marketing
-- Sales
-- Recruiter
-- HR
-- Designer
+* Python
+* Pandas
+* Scikit-Learn
+* Sentence Transformers
+* Streamlit
 
-### Skills Match
+## Results
 
-The ranking rewards candidates with experience in:
+* Processed 100,000 candidate profiles
+* Generated valid challenge submissions
+* Hybrid ranking pipeline
+* Interactive demo application
 
-- Retrieval
-- Ranking
-- Search
-- Recommendation Systems
-- Embeddings
-- Vector Search
-- Pinecone
-- Weaviate
-- Qdrant
-- Milvus
-- Elasticsearch
-- OpenSearch
-- LLMs
-- RAG
-- NLP
+## Run Locally
 
-### Career History Evidence
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-Strong weight is given to actual work experience described in career history.
+## Repository Structure
 
-Examples:
+```text
+src/
+app.py
+submission.csv
+submission_hybrid.csv
+README.md
+```
 
-- Ranking systems
-- Retrieval systems
-- Recommendation systems
-- Search infrastructure
-- Learning-to-Rank
-- Embedding pipelines
-- ML production systems
+## Author
 
-### Behavioral Signals
-
-The following Redrob signals are incorporated:
-
-- Open to Work
-- Recruiter Response Rate
-- GitHub Activity
-- Saved by Recruiters
-- Search Appearances
-- Notice Period
-
----
-
-## Key Design Choice
-
-The challenge explicitly states that keyword matching alone is insufficient.
-
-Therefore, the ranking system prioritizes evidence of real-world ownership of:
-
-- Retrieval systems
-- Ranking systems
-- Search systems
-- Recommendation systems
-
-rather than simply counting AI-related keywords.
-
----
-
-## Outputs
-
-Generated files:
-
-- outputs/top100.csv
-- outputs/top10.csv
-
-Candidates are sorted by descending relevance score.
+Vanshita Choudhary
