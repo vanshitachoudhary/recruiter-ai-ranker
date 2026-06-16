@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,174.2189,7.2 yrs exp; Senior Machine Learning Engineer; Github=94.8; RespRate=0.61; Semantic=0.47699999809265137
+CAND_0088025,2,170.5738,8.6 yrs exp; Staff Machine Learning Engineer; Github=74.6; RespRate=0.83; Semantic=0.4869999885559082
+CAND_0077337,3,167.094,7.0 yrs exp; Staff Machine Learning Engineer; Github=68.0; RespRate=0.95; Semantic=0.4320000112056732
+CAND_0039754,4,158.847,16.2 yrs exp; Senior Applied Scientist; Github=77.5; RespRate=0.81; Semantic=0.4690000116825104
+CAND_0071974,5,157.202,7.8 yrs exp; Senior AI Engineer; Github=82.8; RespRate=0.76; Semantic=0.5360000133514404
+CAND_0046064,6,155.1178,8.9 yrs exp; Senior NLP Engineer; Github=67.3; RespRate=0.78; Semantic=0.5109999775886536
+CAND_0008425,7,153.4563,7.8 yrs exp; Senior NLP Engineer; Github=53.3; RespRate=0.66; Semantic=0.46700000762939453
+CAND_0081846,8,151.6375,6.7 yrs exp; Lead AI Engineer; Github=33.7; RespRate=0.73; Semantic=0.4189999997615814
+CAND_0083307,9,151.0244,7.8 yrs exp; Search Engineer; Github=69.2; RespRate=0.7; Semantic=0.35899999737739563
+CAND_0002025,10,149.4727,5.9 yrs exp; Senior AI Engineer; Github=96.9; RespRate=0.8; Semantic=0.46700000762939453
+CAND_0055905,11,148.9166,8.1 yrs exp; Senior Machine Learning Engineer; Github=-1; RespRate=0.87; Semantic=0.45500001311302185
+CAND_0039383,12,148.2255,7.1 yrs exp; Applied ML Engineer; Github=86.4; RespRate=0.61; Semantic=0.47999998927116394
+CAND_0050454,13,147.7185,6.8 yrs exp; AI Engineer; Github=-1; RespRate=0.77; Semantic=0.48500001430511475
+CAND_0009691,14,145.6406,6.2 yrs exp; Applied ML Engineer; Github=67.8; RespRate=0.64; Semantic=0.421999990940094
+CAND_0092278,15,145.4676,6.8 yrs exp; Senior NLP Engineer; Github=-1; RespRate=0.07; Semantic=0.4560000002384186
+CAND_0081686,16,144.7889,6.0 yrs exp; Search Engineer; Github=46.4; RespRate=0.91; Semantic=0.45899999141693115
+CAND_0086022,17,144.3376,5.3 yrs exp; Senior Applied Scientist; Github=75.2; RespRate=0.55; Semantic=0.4650000035762787
+CAND_0064326,18,143.2537,7.6 yrs exp; Search Engineer; Github=61.4; RespRate=0.94; Semantic=0.41200000047683716
+CAND_0011687,19,141.5527,7.8 yrs exp; Senior NLP Engineer; Github=76.3; RespRate=0.89; Semantic=0.48899999260902405
+CAND_0070398,20,141.2487,7.2 yrs exp; Machine Learning Engineer; Github=63.1; RespRate=0.6; Semantic=0.3569999933242798
+CAND_0055992,21,139.7221,16.9 yrs exp; AI Engineer; Github=65.3; RespRate=0.72; Semantic=0.453000009059906
+CAND_0057563,22,139.6355,6.8 yrs exp; NLP Engineer; Github=22.8; RespRate=0.83; Semantic=0.40700000524520874
+CAND_0062247,23,138.9098,7.3 yrs exp; AI Engineer; Github=52.7; RespRate=0.78; Semantic=0.48899999260902405
+CAND_0051292,24,138.5124,5.2 yrs exp; Applied ML Engineer; Github=61.7; RespRate=0.52; Semantic=0.42500001192092896
+CAND_0080766,25,137.0114,8.8 yrs exp; Staff Machine Learning Engineer; Github=32.9; RespRate=0.66; Semantic=0.36399999260902405
+CAND_0033861,26,136.1894,8.0 yrs exp; Senior NLP Engineer; Github=32.6; RespRate=0.16; Semantic=0.4309999942779541
+CAND_0075249,27,135.9132,6.2 yrs exp; Applied ML Engineer; Github=36.8; RespRate=0.82; Semantic=0.4259999990463257
+CAND_0010685,28,135.6494,6.7 yrs exp; NLP Engineer; Github=-1; RespRate=0.83; Semantic=0.40400001406669617
+CAND_0076163,29,135.4814,6.9 yrs exp; NLP Engineer; Github=84.6; RespRate=0.84; Semantic=0.4449999928474426
+CAND_0068811,30,134.56,8.0 yrs exp; Applied ML Engineer; Github=23.1; RespRate=0.42; Semantic=0.4519999921321869
+CAND_0050876,31,134.112,6.0 yrs exp; Applied ML Engineer; Github=86.1; RespRate=0.67; Semantic=0.3799999952316284
+CAND_0079387,32,134.0833,6.9 yrs exp; AI Engineer; Github=64.1; RespRate=0.81; Semantic=0.5070000290870667
+CAND_0049538,33,134.0582,5.8 yrs exp; Applied ML Engineer; Github=90.8; RespRate=0.72; Semantic=0.5009999871253967
+CAND_0046525,34,133.7662,6.1 yrs exp; Senior Machine Learning Engineer; Github=36.7; RespRate=0.88; Semantic=0.4429999887943268
+CAND_0075574,35,133.5294,5.7 yrs exp; Machine Learning Engineer; Github=37.7; RespRate=0.58; Semantic=0.4320000112056732
+CAND_0006557,36,133.4988,7.9 yrs exp; NLP Engineer; Github=-1; RespRate=0.63; Semantic=0.4259999990463257
+CAND_0072660,37,132.4838,7.1 yrs exp; Machine Learning Engineer; Github=-1; RespRate=0.53; Semantic=0.25200000405311584
+CAND_0066376,38,131.6902,5.7 yrs exp; Applied ML Engineer; Github=-1; RespRate=0.51; Semantic=0.4449999928474426
+CAND_0042100,39,131.1642,7.3 yrs exp; Machine Learning Engineer; Github=43.3; RespRate=0.87; Semantic=0.40799999237060547
+CAND_0005260,40,131.0788,5.2 yrs exp; Senior NLP Engineer; Github=-1; RespRate=0.86; Semantic=0.4950000047683716
+CAND_0041568,41,130.4025,5.2 yrs exp; Search Engineer; Github=-1; RespRate=0.52; Semantic=0.4440000057220459
+CAND_0001610,42,130.3942,3.0 yrs exp; Machine Learning Engineer; Github=40.0; RespRate=0.57; Semantic=0.3700000047683716
+CAND_0094759,43,130.3253,8.6 yrs exp; Lead AI Engineer; Github=76.2; RespRate=0.11; Semantic=0.4790000021457672
+CAND_0030953,44,130.1205,7.8 yrs exp; Search Engineer; Github=21.0; RespRate=0.63; Semantic=0.44699999690055847
+CAND_0041611,45,129.6678,6.4 yrs exp; Staff Machine Learning Engineer; Github=-1; RespRate=0.07; Semantic=0.4659999907016754
+CAND_0015528,46,129.4569,7.4 yrs exp; Applied ML Engineer; Github=50.6; RespRate=0.53; Semantic=0.43700000643730164
+CAND_0070202,47,128.7758,5.1 yrs exp; Machine Learning Engineer; Github=-1; RespRate=0.6; Semantic=0.4690000116825104
+CAND_0081053,48,128.6377,5.4 yrs exp; NLP Engineer; Github=77.7; RespRate=0.83; Semantic=0.3149999976158142
+CAND_0024466,49,128.4213,5.2 yrs exp; Search Engineer; Github=-1; RespRate=0.47; Semantic=0.4950000047683716
+CAND_0087630,50,128.1803,7.2 yrs exp; AI Engineer; Github=23.2; RespRate=0.45; Semantic=0.3880000114440918
+CAND_0018722,51,127.7865,6.6 yrs exp; Recommendation Systems Engineer; Github=94.3; RespRate=0.79; Semantic=0.5040000081062317
+CAND_0065878,52,127.7083,7.8 yrs exp; Senior Data Scientist; Github=-1; RespRate=0.48; Semantic=0.41999998688697815
+CAND_0043228,53,127.5384,6.8 yrs exp; Applied ML Engineer; Github=47.6; RespRate=0.41; Semantic=0.4399999976158142
+CAND_0069905,54,127.4689,6.6 yrs exp; Applied ML Engineer; Github=44.8; RespRate=0.78; Semantic=0.39100000262260437
+CAND_0096172,55,127.1432,5.2 yrs exp; NLP Engineer; Github=65.0; RespRate=0.47; Semantic=0.4779999852180481
+CAND_0061339,56,127.0056,4.2 yrs exp; Search Engineer; Github=85.7; RespRate=0.9; Semantic=0.47999998927116394
+CAND_0044222,57,126.7576,7.7 yrs exp; AI Engineer; Github=28.9; RespRate=0.6; Semantic=0.5070000290870667
+CAND_0078002,58,126.1349,6.3 yrs exp; Machine Learning Engineer; Github=50.6; RespRate=0.86; Semantic=0.26600000262260437
+CAND_0051630,59,125.5595,6.0 yrs exp; Machine Learning Engineer; Github=66.4; RespRate=0.51; Semantic=0.3779999911785126
+CAND_0028793,60,125.5409,7.2 yrs exp; Search Engineer; Github=83.1; RespRate=0.57; Semantic=0.5009999871253967
+CAND_0060054,61,125.1309,6.4 yrs exp; AI Engineer; Github=-1; RespRate=0.86; Semantic=0.4830000102519989
+CAND_0030031,62,124.6637,5.7 yrs exp; AI Engineer; Github=32.4; RespRate=0.94; Semantic=0.40700000524520874
+CAND_0027801,63,124.5976,7.4 yrs exp; NLP Engineer; Github=63.3; RespRate=0.65; Semantic=0.22200000286102295
+CAND_0037980,64,124.4963,9.0 yrs exp; Senior Applied Scientist; Github=30.8; RespRate=0.63; Semantic=0.3880000114440918
+CAND_0060072,65,124.3726,5.7 yrs exp; Staff Machine Learning Engineer; Github=82.4; RespRate=0.1; Semantic=0.45100000500679016
+CAND_0068351,66,124.1186,6.4 yrs exp; Lead AI Engineer; Github=-1; RespRate=0.86; Semantic=0.3790000081062317
+CAND_0061257,67,123.9865,8.0 yrs exp; Staff Machine Learning Engineer; Github=45.3; RespRate=0.87; Semantic=0.3479999899864197
+CAND_0093912,68,123.9583,5.3 yrs exp; Senior Data Scientist; Github=81.5; RespRate=0.66; Semantic=0.41200000047683716
+CAND_0053695,69,123.8634,5.8 yrs exp; Recommendation Systems Engineer; Github=67.6; RespRate=0.6; Semantic=0.4860000014305115
+CAND_0061265,70,123.4138,6.6 yrs exp; Recommendation Systems Engineer; Github=79.8; RespRate=0.94; Semantic=0.6190000176429749
+CAND_0006567,71,122.9368,7.9 yrs exp; Senior AI Engineer; Github=35.2; RespRate=0.79; Semantic=0.38600000739097595
+CAND_0013536,72,122.479,14.1 yrs exp; Applied ML Engineer; Github=51.8; RespRate=0.87; Semantic=0.4620000123977661
+CAND_0009024,73,122.3011,5.2 yrs exp; Search Engineer; Github=32.7; RespRate=0.46; Semantic=0.4580000042915344
+CAND_0093547,74,122.3008,2.9 yrs exp; Senior Machine Learning Engineer; Github=59.5; RespRate=0.75; Semantic=0.4620000123977661
+CAND_0032515,75,122.2349,5.1 yrs exp; Machine Learning Engineer; Github=67.4; RespRate=0.54; Semantic=0.4129999876022339
+CAND_0091909,76,122.0326,6.9 yrs exp; Machine Learning Engineer; Github=49.7; RespRate=0.65; Semantic=0.4169999957084656
+CAND_0005538,77,121.9037,5.9 yrs exp; Senior AI Engineer; Github=58.0; RespRate=0.81; Semantic=0.35600000619888306
+CAND_0031593,78,121.6094,7.8 yrs exp; Search Engineer; Github=23.2; RespRate=0.58; Semantic=0.4819999933242798
+CAND_0018549,79,121.5404,6.8 yrs exp; Recommendation Systems Engineer; Github=56.3; RespRate=0.73; Semantic=0.5040000081062317
+CAND_0027691,80,121.5203,6.5 yrs exp; NLP Engineer; Github=58.5; RespRate=0.68; Semantic=0.2849999964237213
+CAND_0000031,81,121.5028,6.0 yrs exp; Recommendation Systems Engineer; Github=32.6; RespRate=0.91; Semantic=0.5009999871253967
+CAND_0016163,82,121.3919,6.7 yrs exp; Applied ML Engineer; Github=95.0; RespRate=0.72; Semantic=0.2980000078678131
+CAND_0007411,83,120.9674,8.0 yrs exp; Senior Machine Learning Engineer; Github=89.5; RespRate=0.12; Semantic=0.3959999978542328
+CAND_0011162,84,120.782,5.8 yrs exp; Recommendation Systems Engineer; Github=34.3; RespRate=0.75; Semantic=0.5230000019073486
+CAND_0052682,85,120.7365,6.6 yrs exp; NLP Engineer; Github=72.4; RespRate=0.88; Semantic=0.3499999940395355
+CAND_0096142,86,120.4496,5.0 yrs exp; Applied ML Engineer; Github=80.5; RespRate=0.84; Semantic=0.3310000002384186
+CAND_0044883,87,119.8969,6.3 yrs exp; AI Engineer; Github=70.5; RespRate=0.84; Semantic=0.3709999918937683
+CAND_0030468,88,119.7745,5.4 yrs exp; Senior Applied Scientist; Github=45.0; RespRate=0.78; Semantic=0.39100000262260437
+CAND_0086151,89,119.0931,7.7 yrs exp; Recommendation Systems Engineer; Github=51.7; RespRate=0.52; Semantic=0.5130000114440918
+CAND_0078492,90,118.9045,5.1 yrs exp; Recommendation Systems Engineer; Github=35.4; RespRate=0.7; Semantic=0.47999998927116394
+CAND_0094056,91,118.3945,5.9 yrs exp; NLP Engineer; Github=64.8; RespRate=0.82; Semantic=0.49000000953674316
+CAND_0049615,92,118.3808,5.1 yrs exp; ML Engineer; Github=77.8; RespRate=0.28; Semantic=0.4399999976158142
+CAND_0030827,93,118.1887,5.4 yrs exp; Senior Data Scientist; Github=52.4; RespRate=0.52; Semantic=0.47999998927116394
+CAND_0001218,94,118.0439,6.4 yrs exp; AI Specialist; Github=-1; RespRate=0.82; Semantic=0.42899999022483826
+CAND_0036184,95,117.9133,6.0 yrs exp; Recommendation Systems Engineer; Github=43.2; RespRate=0.9; Semantic=0.5590000152587891
+CAND_0042506,96,117.249,4.2 yrs exp; Search Engineer; Github=64.0; RespRate=0.48; Semantic=0.40400001406669617
+CAND_0029367,97,117.1676,5.7 yrs exp; Senior Data Scientist; Github=39.8; RespRate=0.77; Semantic=0.41999998688697815
+CAND_0020877,98,117.1626,5.1 yrs exp; Applied ML Engineer; Github=74.4; RespRate=0.66; Semantic=0.3970000147819519
+CAND_0024620,99,116.8804,5.9 yrs exp; AI Engineer; Github=33.3; RespRate=0.41; Semantic=0.43799999356269836
+CAND_0051615,100,116.4679,4.6 yrs exp; Search Engineer; Github=94.6; RespRate=0.88; Semantic=0.4339999854564667
