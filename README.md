@@ -1,73 +1,149 @@
-# AI Recruiter Ranker
+# 🤖 AI Recruiter Ranker
 
-Hybrid AI-powered candidate ranking system built for large-scale recruiter workflows.
+An AI-powered candidate ranking system that automatically evaluates and ranks candidates against a target job description using a hybrid scoring approach.
 
-## Overview
+## 🚀 Live Demo
 
-AI Recruiter Ranker combines:
+https://recruiter-ai-ranker-blqtzxpczw457kup8ifko8.streamlit.app/
 
-* Rule-based candidate scoring
-* Semantic similarity ranking
-* Recruiter engagement signals
-* Experience and title relevance scoring
+## 📂 GitHub Repository
 
-The system processes large candidate datasets and generates ranked candidate recommendations.
+https://github.com/vanshitachoudhary/recruiter-ai-ranker
 
-## Features
+---
 
-### Rule-Based Ranking
+## 📌 Overview
 
-* Experience scoring
-* Title relevance scoring
-* Skill matching
-* Recruiter signal weighting
+Recruiters often need to evaluate thousands of candidates for a single role. This project automates candidate ranking by combining:
 
-### Semantic Ranking
+* Rule-Based Candidate Scoring
+* Job Description Skill Matching
+* Recruiter Signal Analysis
+* Candidate Comparison Dashboard
 
-* Sentence Transformers
-* Candidate-to-job semantic similarity
-* Embedding-based relevance scoring
+The system generates ranked candidate recommendations and provides transparent reasoning for hiring decisions.
 
-### Hybrid Ranking
+---
 
-Final score combines:
+## ✨ Features
 
-* Rule-based relevance
-* Semantic relevance
-* Recruiter activity signals
+### Candidate Ranking
 
-## Tech Stack
+* Automatic candidate scoring
+* Multi-candidate comparison
+* Rank generation
+
+### Job Description Matching
+
+* Skill extraction from job descriptions
+* Candidate skill matching
+* Missing skill identification
+
+### Recruiter Dashboard
+
+* Interactive Streamlit interface
+* Candidate leaderboard
+* Match score visualization
+* Hiring recommendations
+
+### Explainability
+
+* Strength analysis
+* Missing skill analysis
+* Transparent scoring
+
+---
+
+## 🛠 Tech Stack
 
 * Python
 * Pandas
+* Streamlit
 * Scikit-Learn
 * Sentence Transformers
-* Streamlit
+* Machine Learning
 
-## Results
+---
 
-* Processed 100,000 candidate profiles
-* Generated valid challenge submissions
-* Hybrid ranking pipeline
-* Interactive demo application
+## 📊 Scoring Logic
 
-## Run Locally
+The ranking engine combines multiple signals:
+
+1. Candidate Title Relevance
+2. Years of Experience
+3. Skill Match Percentage
+4. Job Description Alignment
+5. Recruiter Signals
+
+Final candidates are ranked according to their overall score.
+
+---
+
+## 📁 Project Structure
+
+```text
+recruiter-ai-ranker/
+│
+├── app.py
+├── requirements.txt
+├── submission_hybrid.csv
+├── README.md
+│
+├── src/
+│   ├── hybrid_ranker.py
+│   ├── semantic_ranker.py
+│   └── rank_candidates.py
+│
+└── outputs/
+```
+
+---
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/vanshitachoudhary/recruiter-ai-ranker.git
+cd recruiter-ai-ranker
+```
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
 streamlit run app.py
 ```
 
-## Repository Structure
+---
 
-```text
-src/
-app.py
-submission.csv
-submission_hybrid.csv
-README.md
-```
+## 🎯 Use Cases
 
-## Author
+* Recruiter Productivity
+* Talent Acquisition
+* Resume Screening
+* Candidate Shortlisting
+* AI-Assisted Hiring
+
+---
+
+## 📈 Future Improvements
+
+* Resume Upload Support
+* Semantic Candidate Matching
+* Embedding-Based Ranking
+* LLM-Powered Candidate Insights
+* Advanced Recruiter Analytics
+
+---
+
+## 👨‍💻 Author
 
 Vanshita Choudhary
+
+Built as an AI-powered recruiter ranking project for hackathon and portfolio showcase purposes.
