@@ -47,7 +47,7 @@ good_titles = [
 
 jd_keywords = []
 
-for skill in re.split(r"[,\\n]", jd_text):
+for skill in re.split(r"[\n,]", jd_text):
 
     skill = skill.strip().lower()
 
@@ -202,13 +202,13 @@ if st.button("🏆 Analyze Candidates"):
             f"❌ Missing Skills: {row['Missing']}"
         )
 
-        if row["Match %"] >= 70:
-            st.success("⭐ Strong Hire")
+        if row["Match %"] >= 60:
+           st.success("⭐ Strong Hire")
 
-        elif row["Match %"] >= 40:
+        elif row["Match %"] >= 20:
             st.warning("✅ Consider")
 
         else:
-            st.error("❌ Reject")
+           st.error("❌ Reject")
 
         st.divider()
